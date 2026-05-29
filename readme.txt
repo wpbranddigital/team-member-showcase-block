@@ -1,21 +1,22 @@
 === WBD Team Member Block ===
 
 Contributors:      wpbranddigital25
-Tags:              team, team member, team showcase, meet the team, gutenberg team block
-Stable tag:        1.0.1 
+Tags:              team, members team, showcase team, team builder , team slider block
+Stable tag:        1.0.2 
 Requires at least: 6.5
-Tested up to:      6.9
+Tested up to:      7.0
 Requires PHP:      7.4 
 License:           GPLv2 or later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html 
 
-Create stunning meet the team showcases. Responsive team block for Gutenberg: 8 layouts, bio cards.
+Create responsive team member showcases in Gutenberg with modern layouts, profile cards, social icons, and customizable staff sections.
 
-== Description ==
+== Description == 
 
-**BrandDigital Team Showcase** is the ultimate team block plugin for Gutenberg, designed to help you build beautiful, professional, and highly engaging "Meet the Team" sections, staff showcases, and company directories in minutes—completely code-free! 
+WBD Team Member Block is a powerful Gutenberg team showcase plugin for WordPress that helps you create professional “Meet the Team” sections, employee showcases, staff directories, and member profile cards without coding.
+Build responsive team member layouts directly inside the WordPress block editor using lightweight and SEO-friendly code optimized for performance and speed.
 
-Whether you are an agency, startup, corporate site, or freelancer, this plugin offers premium, pixel-perfect layouts and styling controls that fit seamlessly into any WordPress theme. Built with modern web design trends and performance in mind, it utilizes vanilla JavaScript (no jQuery) to ensure lightning-fast page loading and maximum SEO optimization.
+Perfect for agencies, startups, business websites, company pages, freelancer portfolios, schools, organizations, and corporate websites.
 
 
 ### 🌟 Key Benefits:
@@ -24,7 +25,7 @@ Whether you are an agency, startup, corporate site, or freelancer, this plugin o
 * **Ultra-Lightweight & Fast:** Zero jQuery dependencies, clean CSS/JS, and built-in lazy loading for elite performance.
 * **Unlimited Styling Options:** Customize every detail to match your brand identity with typography, margins, and borders.
 
-### ✨ Free Features & Layouts
+### Free Features & Layouts
 
 * ** 8 Elegant Pre-Designed Templates:**
   * *Corporate & Agency:* Ultra-clean, professional grids for modern business websites.
@@ -43,6 +44,30 @@ Whether you are an agency, startup, corporate site, or freelancer, this plugin o
 * ** Flexible Visibility Toggles:** Toggle on/off display for bios, social links, contact info, and badges.
 * ** Drag-and-Drop Reordering:** Easily rearrange staff members with up/down arrows directly inside the Gutenberg editor.
 * ** Translation & RTL Ready:** Ready to localize into any language with native RTL text support.
+
+== Perfect For ==
+
+✔ Agency Team Pages
+✔ Business Websites
+✔ Startup Teams
+✔ Corporate Staff Sections
+✔ Freelancer Portfolios
+✔ School Teacher Profiles
+✔ Company Employee Listings
+✔ Organization Member Directories
+
+
+== Why Choose WBD Team Member Block? ==
+
+✔ Native Gutenberg team member block
+✔ Fully responsive team showcase layouts
+✔ Lightweight and fast-loading
+✔ SEO-friendly clean code
+✔ No jQuery dependency
+✔ Easy customization controls
+✔ Modern staff profile card designs
+✔ Works with all WordPress themes
+
 
 == Installation ==
 
@@ -82,13 +107,20 @@ Yes, WBD Team Member is designed to work with any properly coded WordPress theme
 
 == Screenshots ==
 
-1. Corporate clean layout in the editor
-2. Agency modern layout on the frontend
-3. Inspector panel with layout switcher and customization options
-4. Hover effect revealing social icons
+1. Insert Editor Page
+2. Templeted One
+3. Templeted Two
+4. Templeted Three
+5. Templeted Four
+
 
 == Changelog ==
 
+= 1.0.2 =
+* Optimization for better performance.
+* Fixed Responsive issues.
+
+ 
 = 1.0.1 =
 * Image Optimization for better performance.
 * Expanded pre-designed layout templates to 8 stunning styles.

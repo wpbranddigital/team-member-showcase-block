@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       WBD Team Member Block
  * Description:       Beautifully designed Team Member block with multiple layouts, social links, and CTA buttons.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Requires at least: 6.5
  * Requires PHP: 7.4
  * Author: WPBrand Digital
@@ -12,7 +12,7 @@
  * Text Domain:  wpbranddigital-team-showcase
  * @package BrandDigitalTeamShowcase
  */
-
+ 
 
 if (!defined('ABSPATH')) {
 	exit; // Exit if accessed directly.
